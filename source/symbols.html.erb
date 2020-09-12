@@ -1,0 +1,27 @@
+---
+title: Symbols
+---
+
+<h1>Symbols</h1>
+
+<table class="table table-striped table-sm">
+  <thead>
+  <tr>
+    <th>Name</th>
+    <th>Black</th>
+    <th>White</th>
+    <th>Transparent</th>
+  </tr>
+  </thead>
+  <tbody>
+  <% data.symbols.symbols.each do |f| %>
+    <tr>
+      <td><code><%= f %></code></td>
+      <td><%= image_tag "images/svg/black/#{f}.svg" %></td>
+      <td><%= image_tag "images/svg/white/#{f}.svg" %></td>
+      <td><%= image_tag "images/svg/transparent/#{f}.svg" %></td>
+    </tr>
+  <% end %>
+  </tbody>
+</table>
+

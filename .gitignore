@@ -1,0 +1,9 @@
+.bundle
+.cache
+.DS_Store
+.idea
+.netlify
+.sass-cache
+build/
+source/downloads/
+source/images/svg/

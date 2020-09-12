@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30">
+  <g fill="#231F20">
+    <path d="M0 23.7l2-.7h1l3 1h1l3-1h1l3 1h1l3-1h1l3 1h1l3-1h1l3 1v-3l-3-1h-1l-3 1h-1l-3-1h-1l-3 1h-1l-3-1h-1l-3 1H6l-3-1H2l-2 .7zM20.8 4H0v8h26v-1l-3.3-5c-.5-.6-1.1-2-1.9-2zM5 11H2V7l1-1h1l1 1v4zm5 0H7V7l1-1h1l1 1v4zm5 0h-3V7l1-1h1l1 1v4zm9 0h-5l-1-3V6h3l3 4v1zM3 18l3 1h1l3-1h1l3 1h1l3-1h1l3 1h1l2.8-.9L30 13H0v5.7l2-.7z"/>
+  </g>
+</svg>

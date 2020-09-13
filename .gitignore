@@ -5,5 +5,7 @@
 .netlify
 .sass-cache
 build/
+node_modules
 source/downloads/
 source/images/svg/
+source/fonts/

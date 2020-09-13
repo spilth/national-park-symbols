@@ -1,0 +1,850 @@
+font:
+  svg: source/fonts/national-park-symbols-white.svg
+  ttf: source/fonts/national-park-symbols-white.ttf
+  eot: source/fonts/national-park-symbols-white.eot
+  woff: source/fonts/national-park-symbols-white.woff
+  css: source/fonts/national-park-symbols-white.css
+  html: source/fonts/national-park-symbols-white.html
+  name: National Park Symbols - White
+  prefix: nps
+  fixedwidth: false
+  height: 1000
+  descent: 150
+  normalize: true
+  center: true
+  round: 10e12
+glyphs:
+  - glyph: ./source/images/svg/white/aed.svg
+    name: aed
+    code: 0x0021
+  - glyph: ./source/images/svg/white/airfield.svg
+    name: airfield
+    code: 0x0022
+  - glyph: ./source/images/svg/white/airport.svg
+    name: airport
+    code: 0x0023
+  - glyph: ./source/images/svg/white/alcohol.svg
+    name: alcohol
+    code: 0x0024
+  - glyph: ./source/images/svg/white/all-terrain-trail.svg
+    name: all-terrain-trail
+    code: 0x0025
+  - glyph: ./source/images/svg/white/amphitheater.svg
+    name: amphitheater
+    code: 0x0026
+  - glyph: ./source/images/svg/white/aquatic-invasive-species-decontamination-station.svg
+    name: aquatic-invasive-species-decontamination-station
+    code: 0x0027
+  - glyph: ./source/images/svg/white/aquatic-invasive-species-inspection-sticker.svg
+    name: aquatic-invasive-species-inspection-sticker
+    code: 0x0028
+  - glyph: ./source/images/svg/white/archery.svg
+    name: archery
+    code: 0x0029
+  - glyph: ./source/images/svg/white/art.svg
+    name: art
+    code: 0x002a
+  - glyph: ./source/images/svg/white/ash-disposal.svg
+    name: ash-disposal
+    code: 0x002b
+  - glyph: ./source/images/svg/white/assistive-listening-systems-t-coil-compatible.svg
+    name: assistive-listening-systems-t-coil-compatible
+    code: 0x002c
+  - glyph: ./source/images/svg/white/assistive-listening-systems.svg
+    name: assistive-listening-systems
+    code: 0x002d
+  - glyph: ./source/images/svg/white/atm.svg
+    name: atm
+    code: 0x002e
+  - glyph: ./source/images/svg/white/audio-description.svg
+    name: audio-description
+    code: 0x002f
+  - glyph: ./source/images/svg/white/audio-tour.svg
+    name: audio-tour
+    code: 0x0030
+  - glyph: ./source/images/svg/white/automated-entrance.svg
+    name: automated-entrance
+    code: 0x0031
+  - glyph: ./source/images/svg/white/automobiles.svg
+    name: automobiles
+    code: 0x0032
+  - glyph: ./source/images/svg/white/baby-changing-station.svg
+    name: baby-changing-station
+    code: 0x0033
+  - glyph: ./source/images/svg/white/backcountry-camping-permit.svg
+    name: backcountry-camping-permit
+    code: 0x0034
+  - glyph: ./source/images/svg/white/baseball.svg
+    name: baseball
+    code: 0x0035
+  - glyph: ./source/images/svg/white/beach-access.svg
+    name: beach-access
+    code: 0x0036
+  - glyph: ./source/images/svg/white/bear-box.svg
+    name: bear-box
+    code: 0x0037
+  - glyph: ./source/images/svg/white/bear-cannister-rentals.svg
+    name: bear-cannister-rentals
+    code: 0x0038
+  - glyph: ./source/images/svg/white/bear-spray-purchase.svg
+    name: bear-spray-purchase
+    code: 0x0039
+  - glyph: ./source/images/svg/white/bear-spray-rental.svg
+    name: bear-spray-rental
+    code: 0x003a
+  - glyph: ./source/images/svg/white/bear-spray-return-recycling.svg
+    name: bear-spray-return-recycling
+    code: 0x003b
+  - glyph: ./source/images/svg/white/bear-spray.svg
+    name: bear-spray
+    code: 0x003c
+  - glyph: ./source/images/svg/white/bear-viewing.svg
+    name: bear-viewing
+    code: 0x003d
+  - glyph: ./source/images/svg/white/benches-seating.svg
+    name: benches-seating
+    code: 0x003e
+  - glyph: ./source/images/svg/white/bicycle-trail.svg
+    name: bicycle-trail
+    code: 0x003f
+  - glyph: ./source/images/svg/white/bike-rack.svg
+    name: bike-rack
+    code: 0x0040
+  - glyph: ./source/images/svg/white/bike-rental.svg
+    name: bike-rental
+    code: 0x0041
+  - glyph: ./source/images/svg/white/bike-repairs.svg
+    name: bike-repairs
+    code: 0x0042
+  - glyph: ./source/images/svg/white/birding-wildlife-viewing.svg
+    name: birding-wildlife-viewing
+    code: 0x0043
+  - glyph: ./source/images/svg/white/boat-launch.svg
+    name: boat-launch
+    code: 0x0044
+  - glyph: ./source/images/svg/white/boat-tour.svg
+    name: boat-tour
+    code: 0x0045
+  - glyph: ./source/images/svg/white/boat-trailer-parking.svg
+    name: boat-trailer-parking
+    code: 0x0046
+  - glyph: ./source/images/svg/white/boating-permit.svg
+    name: boating-permit
+    code: 0x0047
+  - glyph: ./source/images/svg/white/book-and-souvenir-shop.svg
+    name: book-and-souvenir-shop
+    code: 0x0048
+  - glyph: ./source/images/svg/white/bookstore.svg
+    name: bookstore
+    code: 0x0049
+  - glyph: ./source/images/svg/white/bottle-filling-station.svg
+    name: bottle-filling-station
+    code: 0x004a
+  - glyph: ./source/images/svg/white/bottles.svg
+    name: bottles
+    code: 0x004b
+  - glyph: ./source/images/svg/white/braille.svg
+    name: braille
+    code: 0x004c
+  - glyph: ./source/images/svg/white/bridge.svg
+    name: bridge
+    code: 0x004d
+  - glyph: ./source/images/svg/white/brochure.svg
+    name: brochure
+    code: 0x004e
+  - glyph: ./source/images/svg/white/bus-stop.svg
+    name: bus-stop
+    code: 0x004f
+  - glyph: ./source/images/svg/white/cabin.svg
+    name: cabin
+    code: 0x0050
+  - glyph: ./source/images/svg/white/calendar-events.svg
+    name: calendar-events
+    code: 0x0051
+  - glyph: ./source/images/svg/white/campfire.svg
+    name: campfire
+    code: 0x0052
+  - glyph: ./source/images/svg/white/campground.svg
+    name: campground
+    code: 0x0053
+  - glyph: ./source/images/svg/white/campsite.svg
+    name: campsite
+    code: 0x0054
+  - glyph: ./source/images/svg/white/cannon.svg
+    name: cannon
+    code: 0x0055
+  - glyph: ./source/images/svg/white/canoe-access.svg
+    name: canoe-access
+    code: 0x0056
+  - glyph: ./source/images/svg/white/cans-or-bottles.svg
+    name: cans-or-bottles
+    code: 0x0057
+  - glyph: ./source/images/svg/white/caving.svg
+    name: caving
+    code: 0x0058
+  - glyph: ./source/images/svg/white/chair-lift-ski-lift.svg
+    name: chair-lift-ski-lift
+    code: 0x0059
+  - glyph: ./source/images/svg/white/chapel.svg
+    name: chapel
+    code: 0x005a
+  - glyph: ./source/images/svg/white/climbing.svg
+    name: climbing
+    code: 0x005b
+  - glyph: ./source/images/svg/white/closed-captioning.svg
+    name: closed-captioning
+    code: 0x005c
+  - glyph: ./source/images/svg/white/coffee.svg
+    name: coffee
+    code: 0x005d
+  - glyph: ./source/images/svg/white/community-garden.svg
+    name: community-garden
+    code: 0x005e
+  - glyph: ./source/images/svg/white/construction.svg
+    name: construction
+    code: 0x005f
+  - glyph: ./source/images/svg/white/cross-country-ski-trail.svg
+    name: cross-country-ski-trail
+    code: 0x0060
+  - glyph: ./source/images/svg/white/customs.svg
+    name: customs
+    code: 0x0061
+  - glyph: ./source/images/svg/white/dam.svg
+    name: dam
+    code: 0x0062
+  - glyph: ./source/images/svg/white/deer-viewing.svg
+    name: deer-viewing
+    code: 0x0063
+  - glyph: ./source/images/svg/white/directions.svg
+    name: directions
+    code: 0x0064
+  - glyph: ./source/images/svg/white/diving.svg
+    name: diving
+    code: 0x0065
+  - glyph: ./source/images/svg/white/dot.svg
+    name: dot
+    code: 0x0066
+  - glyph: ./source/images/svg/white/downhill-skiing.svg
+    name: downhill-skiing
+    code: 0x0067
+  - glyph: ./source/images/svg/white/drinking-water.svg
+    name: drinking-water
+    code: 0x0068
+  - glyph: ./source/images/svg/white/driving-tour.svg
+    name: driving-tour
+    code: 0x0069
+  - glyph: ./source/images/svg/white/electric-car-charging.svg
+    name: electric-car-charging
+    code: 0x006a
+  - glyph: ./source/images/svg/white/electrical-hookup.svg
+    name: electrical-hookup
+    code: 0x006b
+  - glyph: ./source/images/svg/white/elevator.svg
+    name: elevator
+    code: 0x006c
+  - glyph: ./source/images/svg/white/emergencies.svg
+    name: emergencies
+    code: 0x006d
+  - glyph: ./source/images/svg/white/emergency-telephone.svg
+    name: emergency-telephone
+    code: 0x006e
+  - glyph: ./source/images/svg/white/entrance-station.svg
+    name: entrance-station
+    code: 0x006f
+  - glyph: ./source/images/svg/white/entrance.svg
+    name: entrance
+    code: 0x0070
+  - glyph: ./source/images/svg/white/event-facility.svg
+    name: event-facility
+    code: 0x0071
+  - glyph: ./source/images/svg/white/exercise-fitness.svg
+    name: exercise-fitness
+    code: 0x0072
+  - glyph: ./source/images/svg/white/falling-rocks.svg
+    name: falling-rocks
+    code: 0x0073
+  - glyph: ./source/images/svg/white/family-restroom.svg
+    name: family-restroom
+    code: 0x0074
+  - glyph: ./source/images/svg/white/fire-extinguisher.svg
+    name: fire-extinguisher
+    code: 0x0075
+  - glyph: ./source/images/svg/white/fire-grate.svg
+    name: fire-grate
+    code: 0x0076
+  - glyph: ./source/images/svg/white/firewood-cutting.svg
+    name: firewood-cutting
+    code: 0x0077
+  - glyph: ./source/images/svg/white/firewood.svg
+    name: firewood
+    code: 0x0078
+  - glyph: ./source/images/svg/white/first-aid.svg
+    name: first-aid
+    code: 0x0079
+  - glyph: ./source/images/svg/white/first-come-first-served.svg
+    name: first-come-first-served
+    code: 0x007a
+  - glyph: ./source/images/svg/white/fish-cleaning.svg
+    name: fish-cleaning
+    code: 0x007b
+  - glyph: ./source/images/svg/white/fish-hatchery.svg
+    name: fish-hatchery
+    code: 0x007c
+  - glyph: ./source/images/svg/white/fish-ladder.svg
+    name: fish-ladder
+    code: 0x007d
+  - glyph: ./source/images/svg/white/fishing-license.svg
+    name: fishing-license
+    code: 0x007e
+  - glyph: ./source/images/svg/white/fishing-pier.svg
+    name: fishing-pier
+    code: 0x007f
+  - glyph: ./source/images/svg/white/fishing.svg
+    name: fishing
+    code: 0x0080
+  - glyph: ./source/images/svg/white/flagpole.svg
+    name: flagpole
+    code: 0x0081
+  - glyph: ./source/images/svg/white/floating-dump-station.svg
+    name: floating-dump-station
+    code: 0x0082
+  - glyph: ./source/images/svg/white/flower-viewing.svg
+    name: flower-viewing
+    code: 0x0083
+  - glyph: ./source/images/svg/white/flush-toilets.svg
+    name: flush-toilets
+    code: 0x0084
+  - glyph: ./source/images/svg/white/food-cache.svg
+    name: food-cache
+    code: 0x0085
+  - glyph: ./source/images/svg/white/food-service.svg
+    name: food-service
+    code: 0x0086
+  - glyph: ./source/images/svg/white/four-wheel-drive-road.svg
+    name: four-wheel-drive-road
+    code: 0x0087
+  - glyph: ./source/images/svg/white/gas-station.svg
+    name: gas-station
+    code: 0x0088
+  - glyph: ./source/images/svg/white/gasoline-diesel.svg
+    name: gasoline-diesel
+    code: 0x0089
+  - glyph: ./source/images/svg/white/generators.svg
+    name: generators
+    code: 0x008a
+  - glyph: ./source/images/svg/white/golfing.svg
+    name: golfing
+    code: 0x008b
+  - glyph: ./source/images/svg/white/grill.svg
+    name: grill
+    code: 0x008c
+  - glyph: ./source/images/svg/white/guided-tours.svg
+    name: guided-tours
+    code: 0x008d
+  - glyph: ./source/images/svg/white/hand-launch-small-boat-launch.svg
+    name: hand-launch-small-boat-launch
+    code: 0x008e
+  - glyph: ./source/images/svg/white/hang-gliding.svg
+    name: hang-gliding
+    code: 0x008f
+  - glyph: ./source/images/svg/white/historic-feature.svg
+    name: historic-feature
+    code: 0x0090
+  - glyph: ./source/images/svg/white/hold-hand-rail.svg
+    name: hold-hand-rail
+    code: 0x0091
+  - glyph: ./source/images/svg/white/horseback-riding.svg
+    name: horseback-riding
+    code: 0x0092
+  - glyph: ./source/images/svg/white/hospital.svg
+    name: hospital
+    code: 0x0093
+  - glyph: ./source/images/svg/white/ice-cream.svg
+    name: ice-cream
+    code: 0x0094
+  - glyph: ./source/images/svg/white/ice-fishing.svg
+    name: ice-fishing
+    code: 0x0095
+  - glyph: ./source/images/svg/white/ice-skating.svg
+    name: ice-skating
+    code: 0x0096
+  - glyph: ./source/images/svg/white/ice.svg
+    name: ice
+    code: 0x0097
+  - glyph: ./source/images/svg/white/in-line-skating.svg
+    name: in-line-skating
+    code: 0x0098
+  - glyph: ./source/images/svg/white/incident.svg
+    name: incident
+    code: 0x0099
+  - glyph: ./source/images/svg/white/information.svg
+    name: information
+    code: 0x009a
+  - glyph: ./source/images/svg/white/interpretive-exhibit.svg
+    name: interpretive-exhibit
+    code: 0x009b
+  - glyph: ./source/images/svg/white/junior-ranger-program.svg
+    name: junior-ranger-program
+    code: 0x009c
+  - glyph: ./source/images/svg/white/kayaking.svg
+    name: kayaking
+    code: 0x009d
+  - glyph: ./source/images/svg/white/kennel.svg
+    name: kennel
+    code: 0x009e
+  - glyph: ./source/images/svg/white/large-print.svg
+    name: large-print
+    code: 0x009f
+  - glyph: ./source/images/svg/white/laundry.svg
+    name: laundry
+    code: 0x00a0
+  - glyph: ./source/images/svg/white/library.svg
+    name: library
+    code: 0x00a1
+  - glyph: ./source/images/svg/white/life-jackets.svg
+    name: life-jackets
+    code: 0x00a2
+  - glyph: ./source/images/svg/white/lifeguard.svg
+    name: lifeguard
+    code: 0x00a3
+  - glyph: ./source/images/svg/white/lighthouse.svg
+    name: lighthouse
+    code: 0x00a4
+  - glyph: ./source/images/svg/white/litter-receptacle.svg
+    name: litter-receptacle
+    code: 0x00a5
+  - glyph: ./source/images/svg/white/live-audio-description.svg
+    name: live-audio-description
+    code: 0x00a6
+  - glyph: ./source/images/svg/white/lock-bikes.svg
+    name: lock-bikes
+    code: 0x00a7
+  - glyph: ./source/images/svg/white/lockers-storage.svg
+    name: lockers-storage
+    code: 0x00a8
+  - glyph: ./source/images/svg/white/lodging.svg
+    name: lodging
+    code: 0x00a9
+  - glyph: ./source/images/svg/white/lookout-tower.svg
+    name: lookout-tower
+    code: 0x00aa
+  - glyph: ./source/images/svg/white/lounge.svg
+    name: lounge
+    code: 0x00ab
+  - glyph: ./source/images/svg/white/low-vision-access.svg
+    name: low-vision-access
+    code: 0x00ac
+  - glyph: ./source/images/svg/white/maps.svg
+    name: maps
+    code: 0x00ad
+  - glyph: ./source/images/svg/white/marina.svg
+    name: marina
+    code: 0x00ae
+  - glyph: ./source/images/svg/white/mechanic.svg
+    name: mechanic
+    code: 0x00af
+  - glyph: ./source/images/svg/white/mens-restroom.svg
+    name: mens-restroom
+    code: 0x00b0
+  - glyph: ./source/images/svg/white/metal-detecting.svg
+    name: metal-detecting
+    code: 0x00b1
+  - glyph: ./source/images/svg/white/metro-station.svg
+    name: metro-station
+    code: 0x00b2
+  - glyph: ./source/images/svg/white/mobile-device-charging.svg
+    name: mobile-device-charging
+    code: 0x00b3
+  - glyph: ./source/images/svg/white/monument.svg
+    name: monument
+    code: 0x00b4
+  - glyph: ./source/images/svg/white/motor-bike-trail.svg
+    name: motor-bike-trail
+    code: 0x00b5
+  - glyph: ./source/images/svg/white/motorboating.svg
+    name: motorboating
+    code: 0x00b6
+  - glyph: ./source/images/svg/white/museum.svg
+    name: museum
+    code: 0x00b7
+  - glyph: ./source/images/svg/white/newspaper.svg
+    name: newspaper
+    code: 0x00b8
+  - glyph: ./source/images/svg/white/no-mobile-devices.svg
+    name: no-mobile-devices
+    code: 0x00b9
+  - glyph: ./source/images/svg/white/open-captioning.svg
+    name: open-captioning
+    code: 0x00ba
+  - glyph: ./source/images/svg/white/open-to-the-public.svg
+    name: open-to-the-public
+    code: 0x00bb
+  - glyph: ./source/images/svg/white/paddle-boating.svg
+    name: paddle-boating
+    code: 0x00bc
+  - glyph: ./source/images/svg/white/park-film.svg
+    name: park-film
+    code: 0x00bd
+  - glyph: ./source/images/svg/white/parking.svg
+    name: parking
+    code: 0x00be
+  - glyph: ./source/images/svg/white/passes-and-fees.svg
+    name: passes-and-fees
+    code: 0x00bf
+  - glyph: ./source/images/svg/white/passport-stamps.svg
+    name: passport-stamps
+    code: 0x00c0
+  - glyph: ./source/images/svg/white/pedestrian-crossing.svg
+    name: pedestrian-crossing
+    code: 0x00c1
+  - glyph: ./source/images/svg/white/personal-watercraft.svg
+    name: personal-watercraft
+    code: 0x00c2
+  - glyph: ./source/images/svg/white/pets-off-leash.svg
+    name: pets-off-leash
+    code: 0x00c3
+  - glyph: ./source/images/svg/white/pets-on-leash.svg
+    name: pets-on-leash
+    code: 0x00c4
+  - glyph: ./source/images/svg/white/photography.svg
+    name: photography
+    code: 0x00c5
+  - glyph: ./source/images/svg/white/picnic-area.svg
+    name: picnic-area
+    code: 0x00c6
+  - glyph: ./source/images/svg/white/picnic-shelter.svg
+    name: picnic-shelter
+    code: 0x00c7
+  - glyph: ./source/images/svg/white/pit-toilet.svg
+    name: pit-toilet
+    code: 0x00c8
+  - glyph: ./source/images/svg/white/playground.svg
+    name: playground
+    code: 0x00c9
+  - glyph: ./source/images/svg/white/point-of-interest.svg
+    name: point-of-interest
+    code: 0x00ca
+  - glyph: ./source/images/svg/white/post-office.svg
+    name: post-office
+    code: 0x00cb
+  - glyph: ./source/images/svg/white/propane-bottle-recycling.svg
+    name: propane-bottle-recycling
+    code: 0x00cc
+  - glyph: ./source/images/svg/white/propane.svg
+    name: propane
+    code: 0x00cd
+  - glyph: ./source/images/svg/white/quagga-mussel-decontamination-station.svg
+    name: quagga-mussel-decontamination-station
+    code: 0x00ce
+  - glyph: ./source/images/svg/white/quiet.svg
+    name: quiet
+    code: 0x00cf
+  - glyph: ./source/images/svg/white/radiator-water.svg
+    name: radiator-water
+    code: 0x00d0
+  - glyph: ./source/images/svg/white/radios.svg
+    name: radios
+    code: 0x00d1
+  - glyph: ./source/images/svg/white/rail-station.svg
+    name: rail-station
+    code: 0x00d2
+  - glyph: ./source/images/svg/white/ranger-led-events.svg
+    name: ranger-led-events
+    code: 0x00d3
+  - glyph: ./source/images/svg/white/ranger-station.svg
+    name: ranger-station
+    code: 0x00d4
+  - glyph: ./source/images/svg/white/rattlesnakes.svg
+    name: rattlesnakes
+    code: 0x00d5
+  - glyph: ./source/images/svg/white/recycling.svg
+    name: recycling
+    code: 0x00d6
+  - glyph: ./source/images/svg/white/rentals.svg
+    name: rentals
+    code: 0x00d7
+  - glyph: ./source/images/svg/white/reservations.svg
+    name: reservations
+    code: 0x00d8
+  - glyph: ./source/images/svg/white/restrooms.svg
+    name: restrooms
+    code: 0x00d9
+  - glyph: ./source/images/svg/white/river-rafting.svg
+    name: river-rafting
+    code: 0x00da
+  - glyph: ./source/images/svg/white/rock-collecting.svg
+    name: rock-collecting
+    code: 0x00db
+  - glyph: ./source/images/svg/white/rowboating.svg
+    name: rowboating
+    code: 0x00dc
+  - glyph: ./source/images/svg/white/rr-xing.svg
+    name: rr-xing
+    code: 0x00dd
+  - glyph: ./source/images/svg/white/rv-campground.svg
+    name: rv-campground
+    code: 0x00de
+  - glyph: ./source/images/svg/white/rv-trailer-hookup.svg
+    name: rv-trailer-hookup
+    code: 0x00df
+  - glyph: ./source/images/svg/white/safety-caution-alerts.svg
+    name: safety-caution-alerts
+    code: 0x00e0
+  - glyph: ./source/images/svg/white/sailing.svg
+    name: sailing
+    code: 0x00e1
+  - glyph: ./source/images/svg/white/sanitary-disposal-station.svg
+    name: sanitary-disposal-station
+    code: 0x00e2
+  - glyph: ./source/images/svg/white/scenic-viewpoint.svg
+    name: scenic-viewpoint
+    code: 0x00e3
+  - glyph: ./source/images/svg/white/scuba-diving.svg
+    name: scuba-diving
+    code: 0x00e4
+  - glyph: ./source/images/svg/white/sea-lion-viewing.svg
+    name: sea-lion-viewing
+    code: 0x00e5
+  - glyph: ./source/images/svg/white/sea-plane.svg
+    name: sea-plane
+    code: 0x00e6
+  - glyph: ./source/images/svg/white/self-guiding-trail.svg
+    name: self-guiding-trail
+    code: 0x00e7
+  - glyph: ./source/images/svg/white/sewer-hookup.svg
+    name: sewer-hookup
+    code: 0x00e8
+  - glyph: ./source/images/svg/white/shelter.svg
+    name: shelter
+    code: 0x00e9
+  - glyph: ./source/images/svg/white/shipwreck.svg
+    name: shipwreck
+    code: 0x00ea
+  - glyph: ./source/images/svg/white/showers.svg
+    name: showers
+    code: 0x00eb
+  - glyph: ./source/images/svg/white/sign-language-interpretation.svg
+    name: sign-language-interpretation
+    code: 0x00ec
+  - glyph: ./source/images/svg/white/sign.svg
+    name: sign
+    code: 0x00ed
+  - glyph: ./source/images/svg/white/silence-mobile-devices.svg
+    name: silence-mobile-devices
+    code: 0x00ee
+  - glyph: ./source/images/svg/white/skateboarding.svg
+    name: skateboarding
+    code: 0x00ef
+  - glyph: ./source/images/svg/white/ski-jumping.svg
+    name: ski-jumping
+    code: 0x00f0
+  - glyph: ./source/images/svg/white/sledding.svg
+    name: sledding
+    code: 0x00f1
+  - glyph: ./source/images/svg/white/sleeping-shelter.svg
+    name: sleeping-shelter
+    code: 0x00f2
+  - glyph: ./source/images/svg/white/slippery-ramp.svg
+    name: slippery-ramp
+    code: 0x00f3
+  - glyph: ./source/images/svg/white/slippery-steps.svg
+    name: slippery-steps
+    code: 0x00f4
+  - glyph: ./source/images/svg/white/smoking-area.svg
+    name: smoking-area
+    code: 0x00f5
+  - glyph: ./source/images/svg/white/snack-bar.svg
+    name: snack-bar
+    code: 0x00f6
+  - glyph: ./source/images/svg/white/snorkeling.svg
+    name: snorkeling
+    code: 0x00f7
+  - glyph: ./source/images/svg/white/snow-shoeing.svg
+    name: snow-shoeing
+    code: 0x00f8
+  - glyph: ./source/images/svg/white/snowboarding.svg
+    name: snowboarding
+    code: 0x00f9
+  - glyph: ./source/images/svg/white/snowmobile-trail.svg
+    name: snowmobile-trail
+    code: 0x00fa
+  - glyph: ./source/images/svg/white/souvenir-shop.svg
+    name: souvenir-shop
+    code: 0x00fb
+  - glyph: ./source/images/svg/white/spring.svg
+    name: spring
+    code: 0x00fc
+  - glyph: ./source/images/svg/white/stable.svg
+    name: stable
+    code: 0x00fd
+  - glyph: ./source/images/svg/white/stagecoach-rides.svg
+    name: stagecoach-rides
+    code: 0x00fe
+  - glyph: ./source/images/svg/white/star-gazing.svg
+    name: star-gazing
+    code: 0x00ff
+  - glyph: ./source/images/svg/white/statue.svg
+    name: statue
+    code: 0x0100
+  - glyph: ./source/images/svg/white/stay-back-from-edge-cliff.svg
+    name: stay-back-from-edge-cliff
+    code: 0x0101
+  - glyph: ./source/images/svg/white/stay-back-from-edge-shore.svg
+    name: stay-back-from-edge-shore
+    code: 0x0102
+  - glyph: ./source/images/svg/white/stay-on-trail.svg
+    name: stay-on-trail
+    code: 0x0103
+  - glyph: ./source/images/svg/white/store.svg
+    name: store
+    code: 0x0104
+  - glyph: ./source/images/svg/white/strollers.svg
+    name: strollers
+    code: 0x0105
+  - glyph: ./source/images/svg/white/sunny.svg
+    name: sunny
+    code: 0x0106
+  - glyph: ./source/images/svg/white/surfing.svg
+    name: surfing
+    code: 0x0107
+  - glyph: ./source/images/svg/white/swimming.svg
+    name: swimming
+    code: 0x0108
+  - glyph: ./source/images/svg/white/tactile-exhibit.svg
+    name: tactile-exhibit
+    code: 0x0109
+  - glyph: ./source/images/svg/white/technical-rock-climb.svg
+    name: technical-rock-climb
+    code: 0x010a
+  - glyph: ./source/images/svg/white/telephone.svg
+    name: telephone
+    code: 0x010b
+  - glyph: ./source/images/svg/white/tennis.svg
+    name: tennis
+    code: 0x010c
+  - glyph: ./source/images/svg/white/text-telephone-service.svg
+    name: text-telephone-service
+    code: 0x010d
+  - glyph: ./source/images/svg/white/theater.svg
+    name: theater
+    code: 0x010e
+  - glyph: ./source/images/svg/white/things-to-do.svg
+    name: things-to-do
+    code: 0x010f
+  - glyph: ./source/images/svg/white/ticket-sales.svg
+    name: ticket-sales
+    code: 0x0110
+  - glyph: ./source/images/svg/white/tidepooling.svg
+    name: tidepooling
+    code: 0x0111
+  - glyph: ./source/images/svg/white/tornado-shelter.svg
+    name: tornado-shelter
+    code: 0x0112
+  - glyph: ./source/images/svg/white/towing.svg
+    name: towing
+    code: 0x0113
+  - glyph: ./source/images/svg/white/trailer-site.svg
+    name: trailer-site
+    code: 0x0114
+  - glyph: ./source/images/svg/white/trailhead-information.svg
+    name: trailhead-information
+    code: 0x0115
+  - glyph: ./source/images/svg/white/trailhead.svg
+    name: trailhead
+    code: 0x0116
+  - glyph: ./source/images/svg/white/tramway.svg
+    name: tramway
+    code: 0x0117
+  - glyph: ./source/images/svg/white/transparent.svg
+    name: transparent
+    code: 0x0118
+  - glyph: ./source/images/svg/white/trash-dumpster.svg
+    name: trash-dumpster
+    code: 0x0119
+  - glyph: ./source/images/svg/white/trucks.svg
+    name: trucks
+    code: 0x011a
+  - glyph: ./source/images/svg/white/tunnel.svg
+    name: tunnel
+    code: 0x011b
+  - glyph: ./source/images/svg/white/uneven-walkways.svg
+    name: uneven-walkways
+    code: 0x011c
+  - glyph: ./source/images/svg/white/vehicle-ferry.svg
+    name: vehicle-ferry
+    code: 0x011d
+  - glyph: ./source/images/svg/white/vending-machine.svg
+    name: vending-machine
+    code: 0x011e
+  - glyph: ./source/images/svg/white/viewing-area.svg
+    name: viewing-area
+    code: 0x011f
+  - glyph: ./source/images/svg/white/visitor-center.svg
+    name: visitor-center
+    code: 0x0120
+  - glyph: ./source/images/svg/white/volleyball.svg
+    name: volleyball
+    code: 0x0121
+  - glyph: ./source/images/svg/white/volume-control-telephone.svg
+    name: volume-control-telephone
+    code: 0x0122
+  - glyph: ./source/images/svg/white/wading.svg
+    name: wading
+    code: 0x0123
+  - glyph: ./source/images/svg/white/walk-on-boardwalk.svg
+    name: walk-on-boardwalk
+    code: 0x0124
+  - glyph: ./source/images/svg/white/walking.svg
+    name: walking
+    code: 0x0125
+  - glyph: ./source/images/svg/white/watch-for-falling-ice.svg
+    name: watch-for-falling-ice
+    code: 0x0126
+  - glyph: ./source/images/svg/white/water-hookup.svg
+    name: water-hookup
+    code: 0x0127
+  - glyph: ./source/images/svg/white/waterfall.svg
+    name: waterfall
+    code: 0x0128
+  - glyph: ./source/images/svg/white/waterfowl.svg
+    name: waterfowl
+    code: 0x0129
+  - glyph: ./source/images/svg/white/waterskiing.svg
+    name: waterskiing
+    code: 0x012a
+  - glyph: ./source/images/svg/white/webcam.svg
+    name: webcam
+    code: 0x012b
+  - glyph: ./source/images/svg/white/whale-viewing.svg
+    name: whale-viewing
+    code: 0x012c
+  - glyph: ./source/images/svg/white/wheelchair-accessible.svg
+    name: wheelchair-accessible
+    code: 0x012d
+  - glyph: ./source/images/svg/white/wi-fi.svg
+    name: wi-fi
+    code: 0x012e
+  - glyph: ./source/images/svg/white/wilderness.svg
+    name: wilderness
+    code: 0x012f
+  - glyph: ./source/images/svg/white/wind-surfing.svg
+    name: wind-surfing
+    code: 0x0130
+  - glyph: ./source/images/svg/white/wine.svg
+    name: wine
+    code: 0x0131
+  - glyph: ./source/images/svg/white/winter-recreation-area.svg
+    name: winter-recreation-area
+    code: 0x0132
+  - glyph: ./source/images/svg/white/womens-restroom.svg
+    name: womens-restroom
+    code: 0x0133
+  - glyph: ./source/images/svg/white/wood-gathering.svg
+    name: wood-gathering
+    code: 0x0134
+  - glyph: ./source/images/svg/white/young-scientist-program.svg
+    name: young-scientist-program
+    code: 0x0135
+  - glyph: ./source/images/svg/white/zebra-mussel-decontamination-station.svg
+    name: zebra-mussel-decontamination-station
+    code: 0x0136

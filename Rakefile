@@ -1,10 +1,11 @@
 # frozen_string_literal: true
 
+require 'nokogiri'
 require 'yaml'
 require 'zip'
 
-class SvgGenerator < Middleman::Extension
-  def before_build(_builder)
+namespace :build do
+  task :svg do
     Dir.glob('svg/symbols/*.svg').each do |symbol_path|
       puts "Converting #{symbol_path}..."
 
@@ -23,17 +24,21 @@ class SvgGenerator < Middleman::Extension
     File.open('data/symbols.yml', 'w') { |f| f.write output.to_yaml }
 
     FileUtils.mkdir_p 'source/downloads'
-    %w[black white transparent].each {|c| zip_symbols(c)}
+    %w[black white transparent].each { |c| zip_symbols(c) }
   end
 
-  private
-
   def zip_symbols(color)
-    Zip::File.open("source/downloads/national-park-symbols-#{color}.zip", Zip::File::CREATE) do |zipfile|
+    Zip.continue_on_exists_proc = true
+
+    zip_file = "source/downloads/national-park-symbols-#{color}.zip"
+    puts "Creating #{zip_file}..."
+    Zip::File.open(zip_file, Zip::File::CREATE) do |zipfile|
       Dir.glob("source/images/svg/#{color}/*.svg").each do |symbol_path|
+        puts symbol_path
         zipfile.add(symbol_path.split('/').last, symbol_path)
       end
     end
+    puts "#{zip_file} created."
   end
 
   def create_svg(background_path, fill_color, prefix, symbol_path)
@@ -62,5 +67,3 @@ class SvgGenerator < Middleman::Extension
     File.write(output_path, background.to_xml)
   end
 end
-
-::Middleman::Extensions.register(:svg_generator, SvgGenerator)

@@ -8,18 +8,22 @@ title: Symbols
   <thead>
   <tr>
     <th>Name</th>
+    <th>Code</th>
+    <th>Character</th>
     <th>Black</th>
     <th>White</th>
     <th>Transparent</th>
   </tr>
   </thead>
   <tbody>
-  <% data.symbols.symbols.each do |f| %>
+  <% data.symbols.symbols.each_with_index do |symbol, index| %>
     <tr>
-      <td><code><%= f %></code></td>
-      <td><%= image_tag "images/svg/black/#{f}.svg" %></td>
-      <td><%= image_tag "images/svg/white/#{f}.svg" %></td>
-      <td><%= image_tag "images/svg/transparent/#{f}.svg" %></td>
+      <td><code><%= symbol %></code></td>
+      <td><code><%= "0x%04x" % [33 + index] %></code></td>
+      <td><code><%= ("&#x%04x" % (33 + index)).html_safe %>;</code></td>
+      <td><%= image_tag "images/svg/black/#{symbol}.svg" %></td>
+      <td><%= image_tag "images/svg/white/#{symbol}.svg" %></td>
+      <td><%= image_tag "images/svg/transparent/#{symbol}.svg" %></td>
     </tr>
   <% end %>
   </tbody>

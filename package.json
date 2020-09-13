@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build:font": "glyphs2font font-black.yml && glyphs2font font-white.yml && glyphs2font font-transparent.yml"
+  },
+  "devDependencies": {
+    "glyphs2font": "^1.2.2"
+  }
+}

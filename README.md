@@ -19,3 +19,12 @@ $ bundle exec middleman server
 ```
 
 Then visit <http://localhost:4567>
+
+## Deploying
+
+Deploying is done via Netlify:
+
+```bash
+$ bundle exec middleman build
+$ netlify deploy --prod --dir build
+```

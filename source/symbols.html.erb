@@ -21,9 +21,9 @@ title: Symbols
       <td><code><%= symbol %></code></td>
       <td><code><%= "0x%04x" % [33 + index] %></code></td>
       <td><code><%= ("&#x%04x" % (33 + index)).html_safe %>;</code></td>
-      <td><%= image_tag "images/svg/black/#{symbol}.svg" %></td>
-      <td><%= image_tag "images/svg/white/#{symbol}.svg" %></td>
-      <td><%= image_tag "images/svg/transparent/#{symbol}.svg" %></td>
+      <td><%= image_tag "images/svg/black/#{symbol}.svg", width: 36, height: 36 %></td>
+      <td><%= image_tag "images/svg/white/#{symbol}.svg", width: 36, height: 36 %></td>
+      <td><%= image_tag "images/svg/transparent/#{symbol}.svg", width: 36, height: 36 %></td>
     </tr>
   <% end %>
   </tbody>
